@@ -1,0 +1,1 @@
+xorm reverse mysql root:ch1234@(127.0.0.1:3306)/bookstore?charset=utf8 templates\goxorm  models
