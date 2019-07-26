@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://token.atbtz.com/down_page/app/atbtoken0726.ipa</string>
+					<string>https://github.com/ninki51/goapp/blob/master/ABToken.ipa?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
